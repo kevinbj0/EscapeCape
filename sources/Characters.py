@@ -14,7 +14,6 @@ class NonPlayableCharacter():
     def __str__(self):
         return self.name
 
-
 class Trader(NonPlayableCharacter):
     def __init__(self):
         self.name = "Trader"

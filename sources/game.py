@@ -227,6 +227,7 @@ def choose_action(player):
     while not action:
         available_actions = get_available_actions(player)
         
+        ##설명추가
         action_input = input("Action: ") ##행동을 입력받음
         action_input = action_input.lower() ##대문자 입력 시 소문자로 변경
 
