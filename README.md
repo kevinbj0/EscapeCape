@@ -1,5 +1,5 @@
-# EscapeFromCave
-Text Adventure - Escape From Cave
+# EscapeUnderWorld
+Text Adventure - EscapeUnderWorld
 
 You wake suddenly and find yourself in a cave.
 There is darkness all over What will you do?
