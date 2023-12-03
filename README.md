@@ -20,7 +20,7 @@
 
 <img src = "https://github.com/kevinbj0/image/blob/main/textRPG/1.png?raw=true">
 <br>
-<img src = "https://github.com/kevinbj0/image/blob/main/textRPG/23.png?raw=true">
+<img src = "https://github.com/kevinbj0/image/blob/main/textRPG/27.png?raw=true">
 <div style = "display:flex">
 <img src = "https://github.com/kevinbj0/image/blob/main/textRPG/15.png?raw=true">
 <img src = "https://github.com/kevinbj0/image/blob/main/textRPG/7.png?raw=true">
