@@ -18,7 +18,7 @@
 
 ## 게임화면
 
-<img src = "https://github.com/kevinbj0/image/blob/main/textRPG.png?raw=true">
+<img src = "https://github.com/kevinbj0/image/blob/main/textRPG-removebg.png?raw=true">
 
 
 
