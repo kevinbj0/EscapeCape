@@ -18,7 +18,8 @@
 
 ## 시스템 아키텍처
 
-<img src = "https://github.com/kevinbj0/image/blob/main/%ED%99%80%EB%A1%9C%EB%A0%8C%EC%A6%88%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png?raw=true">
+<img src = "https://github.com/kevinbj0/image/blob/main/textRPG/1.png?raw=true">
+<br>
 
 
 
