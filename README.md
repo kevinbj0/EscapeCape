@@ -16,7 +16,7 @@
 ## 🕰️ 개발 기간
  * 2022.10. ~ 2022.11. (3주)
 
-## 시스템 아키텍처
+## 게임화면
 
 <img src = "https://github.com/kevinbj0/image/blob/main/textRPG.png?raw=true">
 
