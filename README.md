@@ -1,6 +1,6 @@
 
 # EscapeUnderWorld
-파이썬기반 TextRPG
+파이썬 기반 TextRPG
 
 유튜브 - https://www.youtube.com/watch?v=xexLj_PLy9k
 
